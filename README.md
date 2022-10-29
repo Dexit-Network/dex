@@ -8,7 +8,7 @@
 - Router=  0xE32454d270969Df9627EF49aBc9625098Ab96331
 - LP_TOKEN_NAME:  DeXit-V2
 - LP_TOKEN_SYMBOL:  DXT-V2
-- RPC Url: https://rpc.dexit.network
+- RPC Url: https://dxt.dexit.network
 - Chain ID : 877
 - Explore : https://dxtscan.com
 - Currency Symbol : DXT
