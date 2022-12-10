@@ -13,3 +13,16 @@
 - Explore : https://dxtscan.com
 - Currency Symbol : DXT
 
+*****************************************************************************************************
+
+Factory=  0xed7e00862c73eF3a53f33d785c62d312Cc8827d2  
+
+Router= 0xCDF41F9A0e4ee47A24678fEb2a32BC5b381e5061  
+
+CndMasterCef= 0x1D933260F2730d04523cFF2984aC630B1C2f2607   
+MultiCall=  0x289F828793bFfCf3Eb9F804f4cC24a088Bd94859 
+
+INIT= 0xd435d858b8cfa4ca81dd3176e60084bffdd31438e443ef10d3ceca169fdf288a
+LP_symbol: DX-LP
+LP-Token: DX LPs
+
